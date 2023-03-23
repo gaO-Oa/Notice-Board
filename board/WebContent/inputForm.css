@@ -1,0 +1,113 @@
+@import
+	url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap')
+	;
+
+body {
+	font-family: 'Noto Sans KR', sans-serif;
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	align-items: center;
+	margin: 0%;
+	padding: 0%;
+	background-color: #F9F9F9;
+}
+
+header {
+	display: flex;
+	font-size: 30px;
+	justify-content: space-around;
+	align-items: center;
+}
+
+form {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+label {
+	display: inline-block;
+	width: 50px;
+}
+
+textarea, input {
+	width: 200px;
+}
+
+.inputBox {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: flex-start;
+	width: 500px;
+	border: solid 0.5px;
+	margin: 10px;
+	padding: 10px;
+}
+
+.inputElement {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: flex-start;
+	margin-bottom: 10px;
+}
+
+#inputCheckbox {
+	width: 30px;
+}
+
+#info {
+	width: 190px;
+}
+
+.inputLabel {
+	width: 100px;
+	display: flex;
+	align-items: center;
+	margin: 5px;
+}
+
+.inputBtn {
+	margin-left: 50px;
+	width: 100px;
+	height: 24px;
+}
+
+#inputUser, #inputTitle, #inputContent {
+	width: 380px;
+}
+.searchBox {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: flex-start;
+	width: 500px;
+	border: solid 0.5px;
+	margin: 10px;
+	padding: 10px;
+}
+select {
+	width: 80px;
+	height: 23px;
+	margin-right: 25px;
+}
+#inputSearch {
+	width: 238px;
+}
+
+.postBox {
+	width: 500px;
+	border: solid 0.5px;
+	margin: 10px;
+	padding: 10px;
+}
+
+.non-click {
+	background-color: #F9F9F9;
+}
+
+.click {
+	background-color: orchid;
+}

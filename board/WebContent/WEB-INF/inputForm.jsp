@@ -10,7 +10,7 @@
 <meta charset="UTF-8">
 <title>게시판 구현</title>
 
-<link rel="stylesheet" href="inputForm.css" />
+<link rel="stylesheet" href="css/inputForm.css" />
 </head>
 <body>
 	<header>게시판</header>

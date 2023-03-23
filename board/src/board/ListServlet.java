@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet("/list")
+@WebServlet(urlPatterns = {"/", "/list"})
 public class ListServlet extends HttpServlet {
 	BoardService bs;
 	ArrayList<Post> searchPosts;

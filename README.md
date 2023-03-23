@@ -34,4 +34,4 @@
 
 ### About Me
 
-[Notion] (https://candle-bonobo-7d4.notion.site/24-94e48266226d4f17806c3e0b373167bf)
+[Notion Portfolio](https://candle-bonobo-7d4.notion.site/24-94e48266226d4f17806c3e0b373167bf)

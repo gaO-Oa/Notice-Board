@@ -1,4 +1,7 @@
-게시판
+<div align="center">
+# 📝 간단한 게시판 (Notice - Board) 📝
+<div>
+
 
 Description
 2023.03.21 - 2023.03.23
